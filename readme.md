@@ -1,4 +1,6 @@
-# Marginalized Hamiltonian Monte Carlo for Linear Mixed Effects Models
+# Hamiltonian Monte Carlo of Marginalized Linear Mixed Effects Models
+
+This is the codes for the NeurIPS 2024 paper titled "Hamiltonian Monte Carlo of Marginalized Linear Mixed Effects Models". More instructions will be updated later.
 
 ### Prerequisites
 
